@@ -9,4 +9,4 @@ Python Scrips to export gaana playlist to csv file and that csv file to Spotify 
 * paste your gaana playlist url in ``gaana_playlist_to_csv.py`` file
 * ``python3 gaana_playlist_to_csv.py``
 * `python3 csv_to_spotify_playlist.py`
-* **Wait for magic to happen**
+* **Open your Spotify to see the magic XD**
